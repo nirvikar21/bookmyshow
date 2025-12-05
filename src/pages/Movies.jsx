@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react';
 import Footer from "../common/Footer";
 import Header from "../common/Header";
-import "./movies.css";
+import "./Movies.css";
 import Filtter from '../components/Filtter';
 import { Link } from 'react-router-dom';
 export default function Movies(){
