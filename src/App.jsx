@@ -24,7 +24,6 @@ function App() {
           <Route path="/activities" element={<Activities/>}/>
           <Route path="/buzz" element={<Buzz/>}/>
           <Route path="/AboutMovie/:title" element={<AboutMovie />} />
-
         </Routes>
         
     </>
